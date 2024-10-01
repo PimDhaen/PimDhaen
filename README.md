@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🚀 I’m currently working on [Dart Eye](https://darteye.app/)
+- 🚀 I’m currently working on [Dart Eye](https://play.google.com/store/apps/details?id=com.darteye)
 - 🌱 I’m working towards becoming an Android Development expert
 - 📚 I post educational Android content weekly
   - Twitter: [@Weekly_Android](https://x.com/Weekly_Android)
