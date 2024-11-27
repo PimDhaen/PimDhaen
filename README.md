@@ -5,7 +5,7 @@
 - 📚 I post educational Android content weekly
   - Twitter: [@Weekly_Android](https://x.com/Weekly_Android)
   - Instagram: [@weekly_android_education](https://www.instagram.com/weekly_android_education/)
-- 📫 How to reach me: dhaen.dev@gmail.com , I'm available for work !
+- 📫 How to reach me: dhaen.dev@gmail.com , I'm available for hire !
 
 ## My Android Apps:
 
