@@ -1,20 +1,18 @@
-## Hi there 👋
+# Hi there 👋  
 
-- 🚀 I’m currently working on [Dart Eye](https://play.google.com/store/apps/details?id=com.darteye)
-- 🌱 I’m working towards becoming an Android Development expert
-- 📚 I post educational Android content weekly
-  - Twitter: [@Weekly_Android](https://x.com/Weekly_Android)
-  - Instagram: [@weekly_android_education](https://www.instagram.com/weekly_android_education/)
-- 📫 How to reach me: dhaen.dev@gmail.com , I'm available for hire !
+- 🚀 Currently building [Dart Eye](https://play.google.com/store/apps/details?id=com.darteye)  
+- 🌱 Specializing in Android Development and Software Development in general (notably with Java)
+- 📚 Sharing weekly educational content:  
+  - [Twitter](https://x.com/Weekly_Android) | [Instagram](https://www.instagram.com/weekly_android_education/)  
+- 📫 Reach me at **dhaen.dev@gmail.com** – Open to new opportunities!  
 
-## My Android Apps:
+## Featured Projects  
 
-### ⚡ [Modern Android Boilerplate](https://github.com/pim-developer/modern-android-template-quick-start)
-- Boilerplate code for starting a new native Android App with the latest goodies!
+### ⚡ [Modern Android Boilerplate](https://github.com/pim-developer/modern-android-template-quick-start)  
+- Kickstart new Android projects with the latest tools and best practices.  
 
-### ⏳ [Days Until](https://github.com/pim-developer/daysuntil)
-- Jetpack Compose App counting down the _days, hours, minutes, and seconds_ till your special event
+### ⏳ [Days Until](https://github.com/pim-developer/daysuntil)  
+- Countdown app built with Jetpack Compose.  
 
-### ❎ [Pixel Tic Tac Toe](https://github.com/2024-DEV2-020/tic-tac-toe-kata)
-- Scalable Tic-Tac-Toe Jetpack Compose App built using MVVM and TDD
-
+### ❎ [Pixel Tic Tac Toe](https://github.com/2024-DEV2-020/tic-tac-toe-kata)  
+- Scalable Jetpack Compose app using MVVM and TDD.  
