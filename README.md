@@ -5,7 +5,7 @@
 2. ### ⚡ [Modern Android Boilerplate](https://github.com/pim-developer/modern-android-template-quick-start) (open-source)
    Quickly start a new Android app with some boilerplate and up-to-date dependencies.
 
-3. ### ❎ [Tic Tac Toe](https://github.com/2024-DEV2-020/tic-tac-toe-kata) (open-source)
+3. ### ❎ [Tic Tac Toe](https://github.com/PimDhaen/tic-tac-toe-kata) (open-source)
    Scalable Jetpack Compose app using MVVM and TDD.  
 
 4. ### ⏳ [Countdown Timer](https://github.com/pim-developer/daysuntil) (open-source)
